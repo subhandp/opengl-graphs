@@ -1,2 +1,2 @@
 # opengl-graphs
-implementasi api graps pada opengl
+implementasi graphs api - opengl
